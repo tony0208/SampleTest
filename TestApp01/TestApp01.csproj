@@ -233,7 +233,7 @@
     <Content Include="public\stylesheets\style.css" />
     <Content Include="ReadMe.txt" />
     <Content Include="routes\index.js" />
-    <Content Include="routes\user.js" />
+    <Content Include="routes\users.js" />
     <Content Include="src\WeUI\example\example.js" />
     <Content Include="src\WeUI\example\fragment\actionsheet.html" />
     <Content Include="src\WeUI\example\fragment\article.html" />
@@ -292,6 +292,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="bin\www" />
+    <None Include="LICENSE" />
     <None Include="node_modules\accepts\HISTORY.md" />
     <None Include="node_modules\accepts\LICENSE" />
     <None Include="node_modules\accepts\node_modules\mime-db\db.json" />
