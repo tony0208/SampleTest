@@ -277,6 +277,8 @@
     <Content Include="src\jquery-weui\lib\jquery-2.1.4.js" />
     <Content Include="src\jquery-weui\lib\weui.css" />
     <Content Include="src\jquery-weui\lib\weui.min.css" />
+    <Content Include="views\home.html" />
+    <Content Include="views\login.html" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
@@ -625,10 +627,9 @@
     <None Include="src\WeUI\style\widget\weui_tips\weui_dialog.less" />
     <None Include="src\WeUI\style\widget\weui_tips\weui_mask.less" />
     <None Include="src\WeUI\style\widget\weui_tips\weui_toast.less" />
-    <None Include="views\error.ejs" />
-    <None Include="views\footer.ejs" />
-    <None Include="views\header.ejs" />
-    <None Include="views\index2.ejs" />
+    <Content Include="views\error.html" />
+    <Content Include="views\footer.html" />
+    <Content Include="views\header.html" />
     <Content Include="views\index.html" />
   </ItemGroup>
   <ItemGroup>
