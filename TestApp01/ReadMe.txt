@@ -20,6 +20,9 @@ http://www.bootcdn.cn/
 EJS 模板
 http://blog.csdn.net/zhangxin09/article/details/18409119
 
+从零开始搭建Node.js, Express, Ejs, Mongodb服务器
+http://www.toolmao.com/nodejs-express-ejs-mongodb-server
+
 
 node_modules, 存放所有的项目依赖库。
 package.json，项目依赖配置及开发者信息
