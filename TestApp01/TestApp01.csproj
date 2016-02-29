@@ -227,9 +227,12 @@
     <Content Include="node_modules\vary\index.js" />
     <Content Include="public\css\jquery-weui.css" />
     <Content Include="public\js\jquery-weui.js" />
+    <Content Include="public\js\example.js" />
     <Content Include="public\lib\jquery-2.1.4.js" />
     <Content Include="public\lib\weui.css" />
     <Content Include="public\lib\weui.min.css" />
+    <Content Include="public\js\zepto.min.js" />
+    <Content Include="public\stylesheets\example.css" />
     <Content Include="public\stylesheets\style.css" />
     <Content Include="ReadMe.txt" />
     <Content Include="routes\index.js" />
